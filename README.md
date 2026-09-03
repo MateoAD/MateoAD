@@ -13,7 +13,7 @@
 - 💼 Desarrollador Full Stack con experiencia en múltiples roles de tecnología
 - ⚡ Trabajo con **Node.js, NestJS, Next.js, React y PostgreSQL**
 - 📈 Interesado en el desarrollo de sistemas de trading algorítmico (MQL5, ICT/Smart Money Concepts)
-- 🌱 Explorando herramientas de IA aplicadas al desarrollo (Claude Code, VS Code + Claude)
+- 🌱 Explorando herramientas de IA aplicadas al desarrollo (Claude, Codex, Copilot, Antigravity y VS Code )
 
 ---
 
@@ -61,7 +61,7 @@
 - **Bases de datos:** modelado y optimización en PostgreSQL, uso de Redis para caché y sesiones.
 - **Infraestructura:** despliegue en AWS, contenedores con Docker.
 - **Sistemas de trading algorítmico:** desarrollo de Expert Advisors en MQL5, lógica de scoring y gestión de riesgo, análisis multitemporalidad, conceptos ICT/Smart Money.
-- **IA aplicada al desarrollo:** uso de asistentes de IA (Claude Code) integrados en el flujo de trabajo para acelerar desarrollo y análisis de código.
+- **IA aplicada al desarrollo:** uso de asistentes de IA (Claude, Codex, Copilot, Antigravity) integrados en el flujo de trabajo para acelerar desarrollo y análisis de código.
 
 ---
 
