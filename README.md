@@ -67,14 +67,7 @@
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="streak stats"/>
-</p>
+<p align="center">  </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateoAD&theme=tokyonight" alt="streak stats"/> </p>
 
 ---
 
