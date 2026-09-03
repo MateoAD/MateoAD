@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Mateo 👋</h1>
-<h3 align="center">Full Stack Developer | Trading Algorítmico</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+NestJS+%7C+Next.js;Apasionado+por+el+trading+algor%C3%ADtmico" alt="Typing SVG" />
@@ -11,9 +11,9 @@
 
 - 🎓 Tecnólogo en Análisis y Desarrollo de Software — SENA Caldas
 - 💼 Desarrollador Full Stack con experiencia en múltiples roles de tecnología
-- ⚡ Trabajo con **Node.js, NestJS, Next.js, React y PostgreSQL**
+- ⚡ Trabajo con **Node.js, NestJS, Next.js, React, laravel, PHP y PostgreSQL**
 - 📈 Interesado en el desarrollo de sistemas de trading algorítmico (MQL5, ICT/Smart Money Concepts)
-- 🌱 Explorando herramientas de IA aplicadas al desarrollo (Claude Code, VS Code + Claude)
+- 🌱 Explorando herramientas de IA aplicadas al desarrollo (Claude, Codex, Copilot, Antigravity VScode)
 
 ---
 
@@ -56,7 +56,7 @@
 - **Bases de datos:** modelado y optimización en PostgreSQL, uso de Redis para caché y sesiones.
 - **Infraestructura:** despliegue en AWS, contenedores con Docker.
 - **Sistemas de trading algorítmico:** desarrollo de Expert Advisors en MQL5, lógica de scoring y gestión de riesgo, análisis multitemporalidad, conceptos ICT/Smart Money.
-- **IA aplicada al desarrollo:** uso de asistentes de IA (Claude Code) integrados en el flujo de trabajo para acelerar desarrollo y análisis de código.
+- **IA aplicada al desarrollo:** uso de asistentes de IA (Claude Code, Codex, Copilot, Antigravity) integrados en el flujo de trabajo para acelerar desarrollo y análisis de código.
 
 ---
 
