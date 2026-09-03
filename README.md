@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola! Soy Mateo 👋</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | Trading Algorítmico</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+NestJS+%7C+Next.js;Apasionado+por+el+trading+algor%C3%ADtmico" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+NestJS+%7C+Next.js;Laravel+%7C+PHP+%7C+C%2B%2B;Apasionado+por+el+trading+algor%C3%ADtmico" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 
 - 🎓 Tecnólogo en Análisis y Desarrollo de Software — SENA Caldas
 - 💼 Desarrollador Full Stack con experiencia en múltiples roles de tecnología
-- ⚡ Trabajo con **Node.js, NestJS, Next.js, React, laravel, PHP y PostgreSQL**
+- ⚡ Trabajo con **Node.js, NestJS, Next.js, React y PostgreSQL**
 - 📈 Interesado en el desarrollo de sistemas de trading algorítmico (MQL5, ICT/Smart Money Concepts)
-- 🌱 Explorando herramientas de IA aplicadas al desarrollo (Claude, Codex, Copilot, Antigravity VScode)
+- 🌱 Explorando herramientas de IA aplicadas al desarrollo (Claude Code, VS Code + Claude)
 
 ---
 
@@ -24,6 +24,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Frontend**
 
@@ -31,6 +34,7 @@
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Bases de datos y almacenamiento**
 
@@ -51,12 +55,13 @@
 
 ### 💡 Habilidades
 
-- **Desarrollo Backend:** diseño y construcción de APIs REST con NestJS y Node.js, arquitectura modular, autenticación e integración con servicios externos.
-- **Desarrollo Frontend:** interfaces con React y Next.js, SSR/SSG, consumo de APIs.
+- **Desarrollo Backend:** diseño y construcción de APIs REST con NestJS, Node.js y Laravel/PHP, arquitectura modular, autenticación e integración con servicios externos.
+- **Desarrollo Frontend:** interfaces con React, Next.js y Bootstrap, SSR/SSG, consumo de APIs.
+- **Programación de bajo nivel:** desarrollo en C++ para lógica de rendimiento y estructuras de datos.
 - **Bases de datos:** modelado y optimización en PostgreSQL, uso de Redis para caché y sesiones.
 - **Infraestructura:** despliegue en AWS, contenedores con Docker.
 - **Sistemas de trading algorítmico:** desarrollo de Expert Advisors en MQL5, lógica de scoring y gestión de riesgo, análisis multitemporalidad, conceptos ICT/Smart Money.
-- **IA aplicada al desarrollo:** uso de asistentes de IA (Claude Code, Codex, Copilot, Antigravity) integrados en el flujo de trabajo para acelerar desarrollo y análisis de código.
+- **IA aplicada al desarrollo:** uso de asistentes de IA (Claude Code) integrados en el flujo de trabajo para acelerar desarrollo y análisis de código.
 
 ---
 
@@ -76,12 +81,27 @@
 ### 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mateo-arboleda-5ba860300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO@ejemplo.com">
+  <a href="mailto:elmatearboleda5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.tiktok.com/@paircodestartup" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🐍 Actividad de contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+    <img alt="Animación de serpiente comiendo el grafo de contribuciones" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
