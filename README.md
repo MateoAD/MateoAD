@@ -94,15 +94,8 @@
 
 ---
 
-### 🐍 Actividad de contribuciones
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-    <img alt="Animación de serpiente comiendo el grafo de contribuciones" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+🐍 Actividad de contribuciones
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateoAD/MateoAD/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateoAD/MateoAD/output/github-contribution-grid-snake.svg" /> <img alt="Animación de serpiente comiendo el grafo de contribuciones" src="https://raw.githubusercontent.com/MateoAD/MateoAD/output/github-contribution-grid-snake.svg" /> </picture> </p>
 
 ---
 
